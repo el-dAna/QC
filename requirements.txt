@@ -3,3 +3,7 @@ numpy
 ipykernel
 matplotlib
 pylatexenc
+qiskit-ibm-runtime
+qiskit-aer
+scikit-learn
+qiskit-machine-learning
