@@ -1,8 +1,4 @@
 # QC
-quantun computing from scractch
+This repo is the development and submission environment for Qrise 2024 Reseaarchathon, (IBM Chanllenge)
 
-More resources.
-1. Quantum Key Distribution(QKD) - https://www.youtube.com/watch?v=u_K9jPBrOwA&ab_channel=JochenRau
-
-Teleportation
-2. https://arxiv.org/pdf/2112.04911.pdf
+Our submission is in the IBM_QRISE_RESEARCHATON_SUBMISSION.ipynb notebook
